@@ -1,5 +1,10 @@
 /*Header*/
-
+.greet {
+    text-align: center;
+    color: #000;
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bolder;
+}
 /*carousel*/
 .caropics {
     z-index: -1;
@@ -19,6 +24,9 @@ hr {
     margin-bottom: 25px;
 }
 body {
-    background-image: url("../images/Background.png");
+    background-image: url("../images/background.jpg");
     background-color: rgba(0, 0, 0, 0.5);
+    overflow: hidden;    
+    background-repeat: no-repeat;
+    background-size: cover;
 }
