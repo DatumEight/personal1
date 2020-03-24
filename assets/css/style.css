@@ -1,0 +1,24 @@
+/*Header*/
+
+/*carousel*/
+.caropics {
+    z-index: -1;
+}
+/* End carousel*/
+
+/*End Header*/
+
+/*Footer*/
+
+/*Body/General use*/
+hr {
+    color: black;
+    border: 1px solid black;
+    width: 66%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+body {
+    background-image: url("../images/Background.png");
+    background-color: rgba(0, 0, 0, 0.5);
+}
