@@ -7,14 +7,42 @@
 }
 /*carousel*/
 .caropics {
-    z-index: -1;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caropics img {
+    max-height: 100px;
+    width: auto;
+
 }
 /* End carousel*/
 
 /*End Header*/
 
-/*Footer*/
+/*main content*/
+.services{
 
+}
+/*end main content*/ 
+
+/*Footer*/
+footer {
+    margin-bottom: 0;
+    display: inline;
+}
+.footcenter{
+    text-align: center;
+    width: 
+}
+.footleft{
+    text-align: center;
+    margin-left: 20px;
+}
+.footright{
+    text-align: center;
+    margin-right: 20px;
+}
 /*Body/General use*/
 hr {
     color: black;
