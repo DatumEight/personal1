@@ -18,13 +18,19 @@
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-
+    border-radius: 5%;
 }
 /* End carousel*/
 
 /*End Header*/
 
 /*main content*/
+#calendar{
+    border:solid 5px #777;
+    margin-left: 50em;
+    margin-right: 50em; 
+    
+}
 .services{
 
 }
